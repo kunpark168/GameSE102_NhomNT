@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs/
+*.tlog
+Bt1-HinhSin/Debug/
+Debug/
